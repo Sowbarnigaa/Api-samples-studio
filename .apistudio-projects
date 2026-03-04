@@ -4,39 +4,19 @@ projects:
     tags:
       - transport
     lastUpdated: 1738914287685
-  Sample rry:
-    description: ''
-    tags: []
-    lastUpdated: 1738914469543
-  newonecdsxa:
-    description: ''
-    tags: []
-    lastUpdated: 1738914569607
-  newone1:
-    description: ''
-    tags: []
-    lastUpdated: 1738919960796
-  newproject:
-    description: ''
-    tags: []
-    lastUpdated: 1738920022660
-  newproj:
-    description: ''
-    tags: []
-    lastUpdated: 1738920166047
-  Swagger. project:
-    description: ''
-    tags: []
-    lastUpdated: 1738920997369
+    id: 4IaXoHyt
   sample_project_vcs:
     description: ''
     tags: []
     lastUpdated: 1770198604549
+    id: aVCI99bZ
   samplevcs2:
     description: ''
     tags: []
     lastUpdated: 1770201512786
+    id: WZUhlvR6
   vcssample1:
     description: ''
     tags: []
     lastUpdated: 1770371419842
+    id: dcPw9QhF
